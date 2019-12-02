@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: nn6
+Version: 0.0.1
+Summary: nn6 -- Neural Network 6
+Home-page: https://github.com/ccc-py/nn6
+Author: ccckmit
+Author-email: ccckmit@gmail.com
+License: UNKNOWN
+Description: # ai6 -- Artificial Intelligence Examples
+        
+        ## Install
+        
+        ```
+        $ pip install nn6
+        ```
+        
+        ## Example
+        
+        ```py
+        import nn6.nn
+        
+        def f(p):
+        	[x,y] = p
+        	return x*x + y*y
+        
+        p = [1.0, 3.0]
+        nn.gradientDescendent(f, p)
+        ```
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
