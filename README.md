@@ -1,4 +1,4 @@
-# ai6 -- Artificial Intelligence Examples
+# nn6 -- Neural Network 6
 
 ## Install
 

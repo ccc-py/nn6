@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nn6", # Replace with your own username
-    version="0.0.3",
+    version="0.0.4",
     author="ccckmit",
     author_email="ccckmit@gmail.com",
     description="nn6 -- Neural Network 6",
